@@ -42,6 +42,10 @@
 
   
   3.DI : Trong đây tui đăng kí vòng đời là AddSingleton bời vì đây là project ko áp dụng với Databse nếu chương trình kết thúc thì vòng dời cũng hết
+
+
+
+  
   <img width="590" height="66" alt="image" src="https://github.com/user-attachments/assets/28b3936d-8be5-40f1-a87d-d6a34144dc97" />
 
 
