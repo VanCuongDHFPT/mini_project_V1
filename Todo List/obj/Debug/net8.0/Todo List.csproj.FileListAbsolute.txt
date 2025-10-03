@@ -1,0 +1,38 @@
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\appsettings.Development.json
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\appsettings.json
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\Todo List.staticwebassets.endpoints.json
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\Todo List.exe
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\Todo List.deps.json
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\Todo List.runtimeconfig.json
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\Todo List.dll
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\Todo List.pdb
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\DataAccess.dll
+D:\C#\HomeWork\Todo List\Todo List\bin\Debug\net8.0\DataAccess.pdb
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\Todo List.csproj.AssemblyReference.cache
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\Todo List.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\Todo List.AssemblyInfoInputs.cache
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\Todo List.AssemblyInfo.cs
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\Todo List.csproj.CoreCompileInputs.cache
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\Todo List.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\Todo List.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\scopedcss\bundle\Todo List.styles.css
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\staticwebassets.build.json
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\staticwebassets.development.json
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\staticwebassets\msbuild.Todo List.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\staticwebassets\msbuild.Todo List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\staticwebassets\msbuild.build.Todo List.props
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Todo List.props
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Todo List.props
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\Todo List.csproj.Up2Date
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\Todo List.dll
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\refint\Todo List.dll
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\Todo List.pdb
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\Todo List.genruntimeconfig.cache
+D:\C#\HomeWork\Todo List\Todo List\obj\Debug\net8.0\ref\Todo List.dll
