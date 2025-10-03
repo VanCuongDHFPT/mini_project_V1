@@ -24,11 +24,23 @@
 
   
   Thực hành mini project:
+
+
+  
   1.Câu thư mục cơ bản và tui đã xây lên =>
   <img width="320" height="466" alt="image" src="https://github.com/user-attachments/assets/e45baf29-5497-4672-b528-27ab6fa645c1" />
+
+
+
+  
   2.Xây dựng Middleware
   <img width="816" height="533" alt="image" src="https://github.com/user-attachments/assets/9dcf1310-a5ca-4984-9d13-7844eecc70dc" />
   <img width="691" height="487" alt="image" src="https://github.com/user-attachments/assets/5f5ae987-72c2-4b6e-ac04-6346e3aea099" />
+
+
+
+
+  
   3.DI : Trong đây tui đăng kí vòng đời là AddSingleton bời vì đây là project ko áp dụng với Databse nếu chương trình kết thúc thì vòng dời cũng hết
   <img width="590" height="66" alt="image" src="https://github.com/user-attachments/assets/28b3936d-8be5-40f1-a87d-d6a34144dc97" />
 
